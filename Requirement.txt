@@ -1,0 +1,6 @@
+ A windows application used to job finding
+ function included:
+ 1.analysis the eamil which send from indeed.com. remove some no use job  such as citized only, 10 year experience
+ 2.recored the jobs status: applied, rejected ... 
+ 3. it should look like QQ, msn or other IM
+ 4. store all information in DB 
